@@ -11,6 +11,7 @@ public class MainActivity extends TabActivity implements OnCheckedChangeListener
 	private TabHost tabHost;
 	private RadioGroup radioderGroup;
 
+	//我就看看 不说话  ----康玲
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
