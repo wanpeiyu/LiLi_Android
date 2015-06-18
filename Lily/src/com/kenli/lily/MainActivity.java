@@ -13,6 +13,7 @@ public class MainActivity extends TabActivity implements OnCheckedChangeListener
 
 	//我就看看 不说话  ----康玲
 	//我还看看 不说话  ----康玲2
+	//我还看看 不说话  ----康玲33
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
